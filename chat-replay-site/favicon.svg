@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Chat Replay logo">
+  <rect x="56" y="64" width="400" height="336" rx="120" fill="#0E9F6E"/>
+  <polygon points="116,366 176,386 82,446" fill="#0E9F6E" stroke="#0E9F6E" stroke-width="16" stroke-linejoin="round"/>
+  <!-- R: play-triangle bowl with a short, separate leg -->
+  <g transform="translate(256 232) translate(-259 -242)" fill="none" stroke="#fff" stroke-width="32" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 344V140L322 208L196 276"/>
+    <path d="M270 292L322 344"/>
+  </g>
+</svg>
